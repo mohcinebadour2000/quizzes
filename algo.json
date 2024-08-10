@@ -1,0 +1,58 @@
+{
+  "quiz": {
+    "title": "Algorithmes Basics Quiz",
+    "description": "Un quiz pour tester les connaissances de base sur les algorithmes.",
+    "questions": [
+      {
+        "question": "Quel est l'objectif principal d'un algorithme de tri?",
+        "options": [
+          "Optimiser l'utilisation de la mémoire",
+          "Organiser des données dans un ordre spécifique",
+          "Générer des nombres aléatoires",
+          "Comparer deux ensembles de données"
+        ],
+        "correct_option": "Organiser des données dans un ordre spécifique"
+      },
+      {
+        "question": "Quel algorithme de tri a une complexité en temps de O(n log n)?",
+        "options": [
+          "Tri à bulles",
+          "Tri par insertion",
+          "Tri rapide",
+          "Tri par sélection"
+        ],
+        "correct_option": "Tri rapide"
+      },
+      {
+        "question": "Quel est le principal avantage de l'algorithme de Dijkstra?",
+        "options": [
+          "Trouver le chemin le plus court dans un graphe",
+          "Tri rapide",
+          "Recherche binaire",
+          "Compression de données"
+        ],
+        "correct_option": "Trouver le chemin le plus court dans un graphe"
+      },
+      {
+        "question": "Quel algorithme est utilisé pour la recherche dans un tableau trié?",
+        "options": [
+          "Recherche linéaire",
+          "Recherche binaire",
+          "Tri fusion",
+          "Tri par tas"
+        ],
+        "correct_option": "Recherche binaire"
+      },
+      {
+        "question": "Quel est le principe de l'algorithme de tri par insertion?",
+        "options": [
+          "Diviser pour régner",
+          "Insérer des éléments dans un tableau trié",
+          "Trier en utilisant un pivot",
+          "Échanger des éléments de position"
+        ],
+        "correct_option": "Insérer des éléments dans un tableau trié"
+      }
+    ]
+  }
+}

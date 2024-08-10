@@ -1,0 +1,58 @@
+{
+  "quiz": {
+    "title": "Réseaux Informatique Quiz",
+    "description": "Un quiz pour tester les connaissances sur les réseaux informatiques.",
+    "questions": [
+      {
+        "question": "Quelle est la fonction principale du protocole TCP?",
+        "options": [
+          "Transmission de données non fiables",
+          "Transmission de données fiables",
+          "Gestion des connexions réseau",
+          "Gestion des adresses IP"
+        ],
+        "correct_option": "Transmission de données fiables"
+      },
+      {
+        "question": "Quel protocole est utilisé pour obtenir une adresse IP dynamique?",
+        "options": [
+          "DNS",
+          "DHCP",
+          "HTTP",
+          "FTP"
+        ],
+        "correct_option": "DHCP"
+      },
+      {
+        "question": "Quel est l'acronyme pour le protocole de communication utilisé pour naviguer sur le Web?",
+        "options": [
+          "TCP",
+          "IP",
+          "HTTP",
+          "FTP"
+        ],
+        "correct_option": "HTTP"
+      },
+      {
+        "question": "Quelle est la différence principale entre un switch et un hub?",
+        "options": [
+          "Un switch envoie des données à tous les ports, un hub à un seul port",
+          "Un hub envoie des données à tous les ports, un switch à un seul port",
+          "Un switch est plus lent qu'un hub",
+          "Un hub a une capacité de bande passante plus élevée"
+        ],
+        "correct_option": "Un hub envoie des données à tous les ports, un switch à un seul port"
+      },
+      {
+        "question": "Quel type d'adresse est une adresse MAC?",
+        "options": [
+          "Adresse de couche application",
+          "Adresse de couche transport",
+          "Adresse de couche réseau",
+          "Adresse de couche liaison"
+        ],
+        "correct_option": "Adresse de couche liaison"
+      }
+    ]
+  }
+}

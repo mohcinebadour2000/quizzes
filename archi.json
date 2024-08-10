@@ -1,0 +1,58 @@
+{
+  "quiz": {
+    "title": "Architecture des Ordinateurs Quiz",
+    "description": "Un quiz pour tester les connaissances sur l'architecture des ordinateurs.",
+    "questions": [
+      {
+        "question": "Quelle est la fonction du CPU dans un ordinateur?",
+        "options": [
+          "Stocker des données",
+          "Effectuer des calculs et exécuter des instructions",
+          "Gérer l'affichage graphique",
+          "Fournir une connexion réseau"
+        ],
+        "correct_option": "Effectuer des calculs et exécuter des instructions"
+      },
+      {
+        "question": "Qu'est-ce qu'un bus dans l'architecture des ordinateurs?",
+        "options": [
+          "Un type de mémoire",
+          "Un chemin de communication pour les composants",
+          "Un périphérique d'entrée",
+          "Un logiciel système"
+        ],
+        "correct_option": "Un chemin de communication pour les composants"
+      },
+      {
+        "question": "Quel est le rôle de la RAM dans un ordinateur?",
+        "options": [
+          "Stocker les données à long terme",
+          "Stocker les données à court terme pour un accès rapide",
+          "Gérer les périphériques d'entrée",
+          "Contrôler les processus du CPU"
+        ],
+        "correct_option": "Stocker les données à court terme pour un accès rapide"
+      },
+      {
+        "question": "Quelle est la principale différence entre les processeurs x86 et ARM?",
+        "options": [
+          "x86 est principalement utilisé dans les serveurs, ARM dans les mobiles",
+          "ARM est plus ancien que x86",
+          "x86 est basé sur RISC, ARM sur CISC",
+          "ARM est basé sur RISC, x86 sur CISC"
+        ],
+        "correct_option": "ARM est basé sur RISC, x86 sur CISC"
+      },
+      {
+        "question": "Quel composant est responsable du traitement graphique dans un ordinateur?",
+        "options": [
+          "CPU",
+          "RAM",
+          "GPU",
+          "SSD"
+        ],
+        "correct_option": "GPU"
+      }
+    ]
+  }
+}
