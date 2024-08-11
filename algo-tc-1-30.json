@@ -1,57 +1,197 @@
 {
   "quiz": {
-    "title": "Algorithmes Basics Quiz",
+    "title": "Quiz de Base en Algorithmes",
     "description": "Un quiz pour tester les connaissances de base sur les algorithmes.",
     "questions": [
       {
-        "question": "Quel est l'objectif principal d'un algorithme de tri?",
+        "question": "Qu'est-ce qu'un algorithme?",
         "options": [
-          "Optimiser l'utilisation de la mémoire",
-          "Organiser des données dans un ordre spécifique",
-          "Générer des nombres aléatoires",
-          "Comparer deux ensembles de données"
+          "Une recette pour résoudre un problème",
+          "Un type de programme informatique",
+          "Un composant matériel d'un ordinateur",
+          "Une application mobile"
         ],
-        "correct_option": "Organiser des données dans un ordre spécifique"
+        "correct_option": "Une recette pour résoudre un problème"
       },
       {
-        "question": "Quel algorithme de tri a une complexité en temps de O(n log n)?",
+        "question": "Quel est l'objectif d'un algorithme de tri?",
+        "options": [
+          "Trouver un nombre dans une liste",
+          "Organiser des éléments dans un certain ordre",
+          "Compresser des données",
+          "Ajouter des éléments à une liste"
+        ],
+        "correct_option": "Organiser des éléments dans un certain ordre"
+      },
+      {
+        "question": "Qu'est-ce qu'une boucle dans un algorithme?",
+        "options": [
+          "Une série d'étapes répétées",
+          "Une condition qui est toujours vraie",
+          "Une instruction qui divise un problème en parties",
+          "Une méthode pour trier des données"
+        ],
+        "correct_option": "Une série d'étapes répétées"
+      },
+      {
+        "question": "Quelle est la première étape de la création d'un algorithme?",
+        "options": [
+          "Tester l'algorithme",
+          "Décomposer le problème",
+          "Écrire le code",
+          "Ajouter des conditions"
+        ],
+        "correct_option": "Décomposer le problème"
+      },
+      {
+        "question": "Quel type de boucle répète une série d'instructions jusqu'à ce qu'une condition soit fausse?",
+        "options": [
+          "Boucle for",
+          "Boucle while",
+          "Boucle infinie",
+          "Boucle de tri"
+        ],
+        "correct_option": "Boucle while"
+      },
+      {
+        "question": "Qu'est-ce qu'une condition dans un algorithme?",
+        "options": [
+          "Une action à effectuer",
+          "Une vérification qui décide du chemin à suivre",
+          "Une méthode pour trier des données",
+          "Une erreur dans le code"
+        ],
+        "correct_option": "Une vérification qui décide du chemin à suivre"
+      },
+      {
+        "question": "Quel est l'objectif de l'instruction 'si...alors' dans un algorithme?",
+        "options": [
+          "Exécuter un ensemble d'instructions si une condition est vraie",
+          "Répéter une action plusieurs fois",
+          "Ajouter des éléments à une liste",
+          "Trier des données"
+        ],
+        "correct_option": "Exécuter un ensemble d'instructions si une condition est vraie"
+      },
+      {
+        "question": "Qu'est-ce qu'une variable dans un algorithme?",
+        "options": [
+          "Une valeur fixe",
+          "Un espace de stockage pour des données qui peuvent changer",
+          "Un type de boucle",
+          "Un algorithme de tri"
+        ],
+        "correct_option": "Un espace de stockage pour des données qui peuvent changer"
+      },
+      {
+        "question": "Quel est le rôle d'un algorithme de recherche?",
+        "options": [
+          "Organiser des données",
+          "Trouver un élément spécifique dans une liste",
+          "Compresser des données",
+          "Ajouter des éléments à une liste"
+        ],
+        "correct_option": "Trouver un élément spécifique dans une liste"
+      },
+      {
+        "question": "Quelle est l'importance des algorithmes en informatique?",
+        "options": [
+          "Ils permettent de résoudre des problèmes de manière efficace",
+          "Ils remplacent les programmeurs",
+          "Ils stockent les données",
+          "Ils améliorent la qualité de l'image"
+        ],
+        "correct_option": "Ils permettent de résoudre des problèmes de manière efficace"
+      },
+      {
+        "question": "Quel algorithme est le plus simple pour trier des nombres dans l'ordre croissant?",
         "options": [
           "Tri à bulles",
-          "Tri par insertion",
           "Tri rapide",
-          "Tri par sélection"
+          "Tri fusion",
+          "Tri par insertion"
         ],
-        "correct_option": "Tri rapide"
+        "correct_option": "Tri à bulles"
       },
       {
-        "question": "Quel est le principal avantage de l'algorithme de Dijkstra?",
+        "question": "Quel est le rôle d'une boucle 'for' dans un algorithme?",
         "options": [
-          "Trouver le chemin le plus court dans un graphe",
-          "Tri rapide",
-          "Recherche binaire",
-          "Compression de données"
+          "Répéter un ensemble d'instructions un nombre spécifique de fois",
+          "Diviser un problème en sous-problèmes",
+          "Ajouter des éléments à une liste",
+          "Trier des données"
         ],
-        "correct_option": "Trouver le chemin le plus court dans un graphe"
+        "correct_option": "Répéter un ensemble d'instructions un nombre spécifique de fois"
       },
       {
-        "question": "Quel algorithme est utilisé pour la recherche dans un tableau trié?",
+        "question": "Comment appelle-t-on un algorithme qui trouve le plus grand élément dans une liste?",
         "options": [
           "Recherche linéaire",
           "Recherche binaire",
-          "Tri fusion",
-          "Tri par tas"
+          "Tri à bulles",
+          "Algorithme de maximum"
         ],
-        "correct_option": "Recherche binaire"
+        "correct_option": "Algorithme de maximum"
       },
       {
-        "question": "Quel est le principe de l'algorithme de tri par insertion?",
+        "question": "Qu'est-ce qu'un pseudo-code?",
         "options": [
-          "Diviser pour régner",
-          "Insérer des éléments dans un tableau trié",
-          "Trier en utilisant un pivot",
-          "Échanger des éléments de position"
+          "Un programme informatique",
+          "Une méthode pour organiser des données",
+          "Une façon de décrire un algorithme en utilisant un langage simple",
+          "Une erreur dans le code"
         ],
-        "correct_option": "Insérer des éléments dans un tableau trié"
+        "correct_option": "Une façon de décrire un algorithme en utilisant un langage simple"
+      },
+      {
+        "question": "Que signifie 'déboguer' un algorithme?",
+        "options": [
+          "Corriger les erreurs",
+          "Améliorer la vitesse",
+          "Ajouter des fonctionnalités",
+          "Écrire le code"
+        ],
+        "correct_option": "Corriger les erreurs"
+      },
+      {
+        "question": "Quel est le résultat de l'exécution de cet algorithme : 'Si la température est supérieure à 25 degrés, afficher 'Il fait chaud''?",
+        "options": [
+          "Afficher 'Il fait chaud' si la température est supérieure à 25 degrés",
+          "Afficher 'Il fait froid' si la température est inférieure à 25 degrés",
+          "Rien n'est affiché",
+          "Une erreur se produit"
+        ],
+        "correct_option": "Afficher 'Il fait chaud' si la température est supérieure à 25 degrés"
+      },
+      {
+        "question": "Quelle est la différence entre une boucle 'for' et une boucle 'while'?",
+        "options": [
+          "La boucle 'for' répète un nombre fixe de fois, tandis que la boucle 'while' répète jusqu'à ce qu'une condition soit remplie",
+          "La boucle 'for' est plus rapide",
+          "La boucle 'while' est utilisée pour le tri",
+          "La boucle 'for' est utilisée uniquement pour les listes"
+        ],
+        "correct_option": "La boucle 'for' répète un nombre fixe de fois, tandis que la boucle 'while' répète jusqu'à ce qu'une condition soit remplie"
+      },
+      {
+        "question": "Que signifie 'initialiser' une variable dans un algorithme?",
+        "options": [
+          "Attribuer une valeur initiale à la variable",
+          "Changer la valeur de la variable",
+          "Supprimer la variable",
+          "Afficher la valeur de la variable"
+        ],
+        "correct_option": "Attribuer une valeur initiale à la variable"
+      },
+      {
+        "question": "Qu'est-ce qu'un 'bug' dans un algorithme?",
+        "options": [
+          "Une fonctionnalité supplémentaire",
+          "Une erreur ou un problème dans le code",
+          "Un type d'algorithme",
+          "Un outil de programmation"
+        ],
+        "correct_option": "Une erreur ou un problème dans le code"
       }
     ]
   }
